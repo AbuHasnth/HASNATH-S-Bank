@@ -1,6 +1,12 @@
 body{
     padding:100px;
 }
+#heading{
+    border-radius: 30px;
+    box-shadow: 5px 5px 15px grey;
+    padding: 10px;
+    background-color:greenyellow;
+}
 .submit-area{
     border-radius: 40px;
     box-shadow:  5px  5px 15px  rgb(92, 91, 89);
